@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Venkat Naidu Rama
 
-<!--
-**vn-fyi/vn-fyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network Engineer | CCNA Certified | Python & Linux Enthusiast  
+Building web apps, automation tools, and open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Professional Background
+- 🛠️ Network Engineer with CCNA certification
+- 🐍 Skilled in Python and Linux System Administration
+- 💡 Passionate about building tools, websites, and open-source innovations
+
+---
+
+## 🚀 Core Skills
+
+### Programming & Web
+- Python • Rust • JavaScript • TypeScript
+- Node.js • Express
+
+
+### DevOps & Tools
+- Git & GitHub • Docker
+- CI/CD (GitHub Actions)
+- REST APIs • Linux environments
+
+---
+
+## 📌 Projects & Highlights
+- **AI Demo Projects** — LLM integrations, chatbot tools (link your repos)
+- **Network Automation Scripts** — Python scripts for network tasks
+- **Web Apps & Dashboards** — React/Next.js UI projects
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/vnrama
+- GitHub: https://github.com/vn-fyi
